@@ -17,7 +17,7 @@ class Draw():
 		window.show()	
 
 class DrawLine():
-	def __init__(self):
+	def __init__(Draw):
 		pass
 	def drawPattern(self,window,palm,previous):
 		self.window = window
